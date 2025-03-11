@@ -20,8 +20,8 @@ public class EmployeeDetails {
 
     public static void main(String[] args) {
         // Create objects of employee details
-        EmployeeDetails emp1 = new EmployeeDetails("Loveleen", 101, 300000);
-        EmployeeDetails emp2 = new EmployeeDetails("Yagyata", 102, 300000);
+        EmployeeDetails emp1 = new EmployeeDetails("Peter", 101, 300000);
+        EmployeeDetails emp2 = new EmployeeDetails("Tony", 102, 300000);
 
         // Display details of each employee
         System.out.println("----Employee 1 details----");
