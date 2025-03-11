@@ -20,7 +20,7 @@ public class MobilePhone {
 
     public static void main(String[] args) {
         MobilePhone phone1 = new MobilePhone("Apple", "iPhone 16 Pro Max", 175900);
-        MobilePhone phone2 = new MobilePhone("Samsung", "Galaxy Z Fold6", 164999);
+        MobilePhone phone2 = new MobilePhone("Samsung", "Galaxy Z Flip 5", 100999);
 
         // Display the details of mobile phone
         System.out.println("----Phone 1 details----");
